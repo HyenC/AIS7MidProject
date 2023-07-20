@@ -1,7 +1,12 @@
 # 간편식 사업 활성화 프로젝트
 ![image](https://github.com/HyenC/AIS7MidProject/assets/38906574/34774da2-8d7e-4201-9abe-a51398c83023)
 
-## 참고자료
+<details>
+<summary> 
+    
+## 참고자료 </summary>
+    <div markdown="1">
+        
 ### **학술논문/ 학술지**
 - 김도형, 전병륜, 이우영 and 김광용. (2021). 유통‧소비 빅데이터 플랫폼에 대한 사례연구. 한국IT정책경영학회 논문지, 13(4), 2561-2567.
 - 김문기, 최희정 and 한상린. (2020). 빅데이터 분석을 활용한 유통 분야 연구동향 분석. 유통연구, 25(3), 85-103.
@@ -110,3 +115,5 @@
 - 온라인뉴스부. (2021). 노인을 위한 음식은 있다… ‘엔젤스 밀’ 사전 예약분 완판. https://www.seoul.co.kr/news/newsView.php?id=20210323500113. 서울신문
 - 전은희. (2022). 팬데믹 이후 성장하고 있는 ‘캠핑용 식품' 시장 동향. https://www.sommeliertimes.com/news/articleView.html?idxno=21270. SOMMELIER TIMES
 - 황희정. (2022). 중부지방 폭우로 편의점 간편식 수요 급증…수건·양초 매출도↑. https://www.yna.co.kr/view/AKR20220815014300003. 연합뉴스
+  </div>
+  </details>
