@@ -1,4 +1,4 @@
-# AIS7MidProject
+# 간편식 사업 활성화 프로젝트
 ![image](https://github.com/HyenC/AIS7MidProject/assets/38906574/34774da2-8d7e-4201-9abe-a51398c83023)
 
 ## 참고자료
