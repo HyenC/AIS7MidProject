@@ -23,8 +23,8 @@
 - 유통데이터 활용 경진대회 주최측으로부터 상품데이터, 구매 데이터, 결제 데이터를 제공받았다. 주최측에서 제공한 데이터 외에도 공공데이터포털이나 공공기관에서 제공하는 데이터를 함께 활용해도 된다고 하였기 때문에 제공받은 데이터셋의 ‘어떤 사람’이 상품을 구매하는지와 연관을 지어보기 위해 KOSIS의 <가구주의 연령/가구유형/가구원수별 추계가구 데이터>를 분석해보기로 하였다.
 
 <div>
-    <img width="500" alt="image" margin='auto' src="https://github.com/HyenC/MealKit/assets/38906574/c00cb95c-0206-4969-95bf-425d173095f3">
-    <img width="500" alt="image" margin='auto' src="https://github.com/HyenC/MealKit/assets/38906574/bc120d93-aa52-4c34-82c0-84086e960125">
+    <img width="400" alt="image" margin='auto' src="https://github.com/HyenC/MealKit/assets/38906574/c00cb95c-0206-4969-95bf-425d173095f3">
+    <img width="400" alt="image" margin='auto' src="https://github.com/HyenC/MealKit/assets/38906574/bc120d93-aa52-4c34-82c0-84086e960125">
 </div>
 
 그 결과 ‘인구의 고령화', ‘1인 가구의 증가’가 가장 눈에 띄었고 이를 인사이트로 하여 고령가구와 1인 가구의 소비 및 유통에 대한 주제를 선정하려고 했다.
