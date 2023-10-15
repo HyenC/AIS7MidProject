@@ -244,7 +244,7 @@ df_19_a = df_19_a.rename_axis('연령별')
 <details>
 <summary>
 
-### [19~20년 구매데이터 품목군별 데이터(제공데이터)] (plotly, histogram) </summary>
+#### [19~20년 구매데이터 품목군별 데이터(제공데이터)] (plotly, histogram) </summary>
 <div markdown="1">
 
 <div>
@@ -260,7 +260,7 @@ df_19_a = df_19_a.rename_axis('연령별')
 <details>
 <summary>
 
-### [21~22년 카드 결제데이터_카테고리_외식(제공데이터)과 코로나 확진자수 상관관계 비교] (matplotlib, lineplot) </summary>
+#### [21~22년 카드 결제데이터_카테고리_외식(제공데이터)과 코로나 확진자수 상관관계 비교] (matplotlib, lineplot) </summary>
 <div markdown="1">
 
 ![image](https://github.com/HyenC/MealKit/assets/38906574/0dbf40ac-7c87-491f-9cdb-b20eb006856c)
@@ -276,7 +276,7 @@ df_19_a = df_19_a.rename_axis('연령별')
 <details>
 <summary>
 
-### [18~20년 간편식 구입변화(%) 데이터]  (seaborn, barplot) </summary>
+#### [18~20년 간편식 구입변화(%) 데이터]  (seaborn, barplot) </summary>
 <div markdown="1">
 
 <div>
@@ -294,7 +294,7 @@ df_19_a = df_19_a.rename_axis('연령별')
 <details>
 <summary>
 
-### [18~20년 간편식 구입경험] (matplotlib, pie) </summary>
+#### [18~20년 간편식 구입경험] (matplotlib, pie) </summary>
 <div markdown="1">
 
 ![image](https://github.com/HyenC/MealKit/assets/38906574/140d493b-cc68-470b-8448-0d1bcb0d37ca)
@@ -307,7 +307,7 @@ df_19_a = df_19_a.rename_axis('연령별')
 <details>
 <summary>
 
-### [월평균 간편식 지출액_가구원수별, 연령별] (matplotlib, barplot) </summary>
+#### [월평균 간편식 지출액_가구원수별, 연령별] (matplotlib, barplot) </summary>
 <div markdown="1">
 
 - 지금까지 간편식 구입경험과 변화 및 유통데이터를 통해 구매추이를 보았다면, 더 다양한 관점으로 확인해보기 위해 사람들이 간편식에 지출하는 비용에 대한 데이터를 분석해보았다. 이 과정에서 좀 더 세부적으로 구분하여 보기 위해 가구원수별,  연령별로 구분지어 데이터를 시각화하였다. 우선 가구원수별로 나눠본 지표이다.
@@ -332,7 +332,7 @@ df_19_a = df_19_a.rename_axis('연령별')
 <details>
 <summary>
 
-### [연도별 식품소비 트렌드별 동조성 데이터_성별] (matplotlib, pie)  </summary>
+#### [연도별 식품소비 트렌드별 동조성 데이터_성별] (matplotlib, pie)  </summary>
 <div markdown="1">
 
 - 간편식에 대한  인식을 확인하기 전,  전체적인 식품소비의 트렌드를 확인할 필요가 있다고 판단하였다. 따라서 간편식 뿐 아니라 전체적인 식품소비의 트렌드를 조사한 ‘연도별 식품소비 트렌드별 동조성 데이터’를 분석해보았다. 성별을 나누어 데이터를 시각화 하였고, 연도별로 그래프를 비교하여 코로나 전과 후의 식품소비에 대한 인식 변화를 확인할 수 있다.
@@ -348,7 +348,7 @@ df_19_a = df_19_a.rename_axis('연령별')
 <details>
 <summary>
 
-### [간편식을 구입하지 않는 이유 설문 데이터] (matplotlib, barplot 전치) </summary>
+#### [간편식을 구입하지 않는 이유 설문 데이터] (matplotlib, barplot 전치) </summary>
 <div markdown="1">
 
 - 연도별 식품소비 트렌드별 동조성 데이터를 통해 성별에 관련없이 식품의 안전성, 즉 신선도나 유통기한과 소포장 및 간편한 조리를 원하는 것을 볼 수 있었다. 그렇다면 이러한 식품 소비 트렌드가 ‘간편식'에도 적용되는지 확인해보기 위해 ‘간편식을 구입하지 않는 이유' 라는 설문 데이터를 수집하였고, 가구원 수, 성별, 연령별로 나누어 분석해보았다.
@@ -369,7 +369,7 @@ df_19_a = df_19_a.rename_axis('연령별')
 <details>
 <summary>
 
-### [간편식을 구매하는 이유 설문 데이터] (matplotlib, donut) </summary>
+#### [간편식을 구매하는 이유 설문 데이터] (matplotlib, donut) </summary>
 <div markdown="1">
 
 - 다음은 반대로 간편식을 구매하는 이유에 대해 분석해보았다. 처음에는 가구원수별, 성별별, 연령별로 나누어 인사이트를 각각 도출하고자 했지만 각 분류별 특이점을 찾을 수 없었고 모두 비슷한 추세를 보였기에 전반적인 추이를 살펴보기로 하였다.
