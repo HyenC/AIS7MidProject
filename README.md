@@ -240,7 +240,7 @@ df_19_a = df_19_a.rename_axis('연령별')
 
 </br>
 
-## 3. 결과물 해석
+## 3. 분석 결과
 <details>
 <summary>
 
@@ -386,7 +386,7 @@ df_19_a = df_19_a.rename_axis('연령별')
 
 </br>
 
-## 4. 인사이트 설명
+## 4. 활용 방안 제시
 
 <details>
 <summary> 
