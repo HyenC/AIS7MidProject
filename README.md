@@ -47,6 +47,8 @@
     <img width="240" alt="image" src="https://github.com/HyenC/MealKit/assets/38906574/8f72fdce-7ed3-42eb-a278-15eff3de5bcc">
 </div>
 
+</br>
+
  주어진 데이터의 상품 목록은 대분류> 중분류> 소분류로 분류된다. 이때 소분류를 기준으로 삼게 되면 상품 유형이 너무 많아지므로 대분류를 기준으로 데이터 프레임을 보았다.
   
  그 결과 상위 8개의 항목은 `주방, 청소, 욕실용품`을 제외하고 모두 '식품'과 관련된 소비이므로 '식품' 구매로 주제를 좁혔다.
@@ -210,6 +212,35 @@ df_19_a = df_19_a.rename_axis('연령별')
 
 ![image](https://github.com/HyenC/MealKit/assets/38906574/fd33771b-bb9b-4287-a0a8-cbaf0ccdd1fd)
 
+</br>
+
+## 2-3. 활용 라이브러리 등 기술적 요소
+**pandas**, **numpy**, **matplotlib**, **seaborn**, **plotly**, **streamlit**
+
+</br>
+
+## 2-4. 프로젝트에서 분석한 내용
+✅ 결측치 확인
+
+✅ 중복값 확인
+
+✅ 이상치 확인
+
+✅ 데이터 타입 확인
+
+✅ 전체 수치 변수의 히스토그램 그리기
+
+✅ 수치 데이터 기술 통계 구하기
+
+✅ 범주 데이터 기술 통계 구하기
+
+✅ 파생변수 만들기
+
+✅ 데이터프레임 병합
+
+✅ 빈도수 구하기
+
+✅ groupby, pivot_table 등을 통한 데이터 집계
 
 </br></br>
 
