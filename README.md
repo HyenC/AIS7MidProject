@@ -14,9 +14,9 @@
 </div>
 
 <div>
-  <img width="265" alt="image" src="https://github.com/HyenC/MealKit/assets/38906574/1a30d276-b2fc-4f4f-b864-0dcf31cd726d">
-  <img width="265" alt="image" src="https://github.com/HyenC/MealKit/assets/38906574/7bbf8fe4-ef66-4c5a-9ec9-6182fc50ec94">
-  <img width="265" alt="image" src="https://github.com/HyenC/MealKit/assets/38906574/2bfbfece-ba64-4a1b-b7ea-c8d253ddebcc">
+  <img width="275" alt="image" src="https://github.com/HyenC/MealKit/assets/38906574/1a30d276-b2fc-4f4f-b864-0dcf31cd726d">
+  <img width="275" alt="image" src="https://github.com/HyenC/MealKit/assets/38906574/7bbf8fe4-ef66-4c5a-9ec9-6182fc50ec94">
+  <img width="250" alt="image" src="https://github.com/HyenC/MealKit/assets/38906574/2bfbfece-ba64-4a1b-b7ea-c8d253ddebcc">
 </div>
 
 </br></br></br>
