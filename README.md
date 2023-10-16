@@ -19,7 +19,7 @@
   <img width="265" alt="image" src="https://github.com/HyenC/MealKit/assets/38906574/2bfbfece-ba64-4a1b-b7ea-c8d253ddebcc">
 </div>
 
-</br>
+</br></br></br>
   
 # 1. 프로젝트 개요
 
