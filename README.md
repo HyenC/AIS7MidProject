@@ -14,9 +14,9 @@
 </div>
 
 <div>
-  <img width="265" alt="image" src="https://github.com/HyenC/MealKit/assets/38906574/1a30d276-b2fc-4f4f-b864-0dcf31cd726d">
-  <img width="265" alt="image" src="https://github.com/HyenC/MealKit/assets/38906574/7bbf8fe4-ef66-4c5a-9ec9-6182fc50ec94">
-  <img width="265" alt="image" src="https://github.com/HyenC/MealKit/assets/38906574/2bfbfece-ba64-4a1b-b7ea-c8d253ddebcc">
+  <img style="width: 33%; height: auto;" alt="image" src="https://github.com/HyenC/MealKit/assets/38906574/1a30d276-b2fc-4f4f-b864-0dcf31cd726d">
+  <img style="width: 33%; height: auto;" alt="image" src="https://github.com/HyenC/MealKit/assets/38906574/7bbf8fe4-ef66-4c5a-9ec9-6182fc50ec94">
+  <img style="width: 33%; height: auto;" alt="image" src="https://github.com/HyenC/MealKit/assets/38906574/2bfbfece-ba64-4a1b-b7ea-c8d253ddebcc">
 </div>
 
 </br></br></br>
@@ -42,9 +42,9 @@
 
 - 제공받은 데이터로 간단한 EDA를 진행한 뒤 결과를 분석하여 주제를 구체화했다.
 <div>
-    <img width="33%" alt="image" margin='auto' src="https://github.com/HyenC/MealKit/assets/38906574/dd64f7ce-631f-428b-8bad-b0346f789b43">
-    <img width="33%" alt="image" src="https://github.com/HyenC/MealKit/assets/38906574/0e9a512c-0e83-4fad-b69c-aab49f05948f">
-    <img width="33%" alt="image" src="https://github.com/HyenC/MealKit/assets/38906574/3f7b74ef-fc2a-457f-b749-ca35a30aee24">
+    <img style="width: 33%; height: auto;" alt="image" margin='auto' src="https://github.com/HyenC/MealKit/assets/38906574/dd64f7ce-631f-428b-8bad-b0346f789b43">
+    <img style="width: 33%; height: auto;" alt="image" src="https://github.com/HyenC/MealKit/assets/38906574/0e9a512c-0e83-4fad-b69c-aab49f05948f">
+    <img style="width: 33%; height: auto;" alt="image" src="https://github.com/HyenC/MealKit/assets/38906574/8f72fdce-7ed3-42eb-a278-15eff3de5bcc">
 </div>
 
  주어진 데이터의 상품 목록은 대분류> 중분류> 소분류로 분류된다. 이때 소분류를 기준으로 삼게 되면 상품 유형이 너무 많아지므로 대분류를 기준으로 데이터 프레임을 보았다.
